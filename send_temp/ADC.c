@@ -1,6 +1,6 @@
 /**************************************/
 /* Description : ADC program file     */
-/* Author      : Abo elnour           */
+/* Author      : Ahmed Saeed          */
 /* Version     : 0.1v                 */
 /* Date        : 23 Dec 2022          */
 /* History     : 0.1v initial creation*/
